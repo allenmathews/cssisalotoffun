@@ -1,0 +1,17 @@
+body {
+    width: 620px;
+}
+
+.btn-1 {
+    background-color: #ef5839;
+    color: #fff;
+    padding: 15px 30px;
+    display: inline-block;
+}
+
+.btn-2 {
+    background-color: #fff;
+    color: #2e354f;
+    padding: 15px 30px;
+    display: inline-block;
+}
