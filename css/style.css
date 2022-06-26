@@ -19,9 +19,6 @@ strong {
     font-weight: 900;
 }
 
-
-/* Typography */
-
 h1 {
     font-size: 3rem;
     margin: 0;
@@ -40,9 +37,6 @@ a:hover,
 a:focus {
     color: #d4b44c;
 }
-
-
-/* Buttons */
 
 .btn {
     display: inline-block;
@@ -86,7 +80,6 @@ section {
 .container {
     width: 620px;
     margin: 0 auto;
-    /* border: 2px solid magenta; */
 }
 
 .section-two {
